@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_margin">8dp</dimen>
+    <dimen name="list_item_height_small">200dp</dimen>
+    <dimen name="list_item_width_small">160dp</dimen>
+    <dimen name="list_item_height_large">350dp</dimen>
+    <dimen name="list_item_width_Large">280dp</dimen>
+    <dimen name="extendedBarHeight">128dp</dimen>
+    <dimen name="big_corner_radius">8dp</dimen>
+</resources>

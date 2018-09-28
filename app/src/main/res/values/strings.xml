@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Cape Tour Guide</string>
+    <string name="location">LOCATION</string>
+    <string name="book">BOOK A TOUR</string>
+    <string name="accommodation">HOTELS NEARBY</string>
+    <string name="localGuide">FIND A GUIDE</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi orci dui, ornare eget consectetur a, tempor blandit ex. Donec ut erat tempor, venenatis mauris eleifend, dictum quam. Mauris iaculis, orci nec pellentesque elementum, ante risus vehicula risus, vel pulvinar nulla ligula quis est. Integer ante est, mattis vel ipsum eu, fermentum sollicitudin neque. Donec nec consequat felis. In fermentum ex nec dui vestibulum feugiat. Nam sit amet mi non nibh pellentesque vulputate sed sed lorem.</string>
+
+    <string-array name="categyTabs">
+        <item name="places_tab">PLACES</item>
+        <item name="activities_tab">NATURE</item>
+        <item name="arts_crafts_tab">CULTURE</item>
+        <item name="activities_tab">ACTIVITIES</item>
+    </string-array>
+
+    <string-array name="culture">
+        <item name="greenMarket">Green Square Crafts Market</item>
+        <item name="greenpointMarket">Greenpoint Crafts Market</item>
+        <item name="artscapeTheatre">Artscape Theatre</item>
+        <item name="kirstenboschConcerts">Kirstenbosch Music Concerts</item>
+    </string-array>
+
+    <string-array name="nature">
+        <item name="bontekPark">Bontebok National Park</item>
+        <item name="bouldersBeach">Boulders Beach</item>
+        <item name="skeletonGorge">Skeleton Gorge</item>
+        <item name="tableMountainPark">Table Mountain National Park</item>
+    </string-array>
+
+    <string-array name="places">
+        <item name="wineFarms">Cape Wine Farms</item>
+        <item name="museum">Cape Town Museum</item>
+        <item name="robbenIsland">Robben Island</item>
+        <item name="observatory">South African Astronomical Observatory</item>
+    </string-array>
+
+    <string-array name="activities">
+        <item name="safari">Safari Rides</item>
+        <item name="tableMountainHike">Hiking</item>
+        <item name="paragliding">Paragliding Rides</item>
+        <item name="zipLineRide">Zip Line Rides</item>
+    </string-array>
+
+    <string name="locationResult">location action</string>
+    <string name="bookTourResult">book tour action</string>
+    <string name="findHotelsNearbyResult">find hotels nearby action</string>
+    <string name="findGuideResult">find guide action</string>
+    <string name="attractionImageDescription">Attraction image</string>
+
+
+</resources>
